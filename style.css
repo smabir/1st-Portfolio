@@ -1,0 +1,138 @@
+html {
+    font-family: 'Poppins', sans-serif;
+}
+body {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    margin-left: 0;
+    margin-right: 0;
+}
+section {
+    display: flex;
+}
+.arnaf-abir-world {
+    width: 45%;
+    margin-top: 70px;
+}
+.arnaf-abir-png {
+    width: 50%;
+}
+.arnaf-abir-png img {
+    width: 90%;
+    margin-left: 20%;
+    
+}
+.second-h1 {
+    font-size: 50px;
+    margin-top: 5px;
+}
+.second-h1 span {
+    color: rgb(17, 17, 212);
+}
+.first-h1 {
+    font-size: 40px;
+    margin-bottom: 0;
+}
+.first-section {
+    width: 88%;
+    margin: auto;
+    margin-bottom: 100px;
+}
+.follow-me {
+    text-decoration: none; 
+    color: white;
+    background-image: linear-gradient(#6555f6, #2327df);
+    border-radius: 5px;
+    margin-top: 15px;
+    padding: 10px 40px; 
+    display: inline-block;
+    font-weight: bold;
+}
+.arnaf-abir-png-2 {
+    width: 50%;
+}
+.Dream-Big {
+    width: 38%;
+    margin-left: 55px;
+}
+.dream-big-h1 {
+    font-size: 40px;
+}
+.arnaf-abir-png-2 img {
+    width: 90%;
+}
+.second-section-div {
+    width: 88%;
+    margin: auto;
+    display: flex;
+}
+.second-section {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: center;
+    margin-bottom: 100px;
+}
+.download-button {
+    text-decoration: none; 
+    color: white;
+    background-image: linear-gradient(#1c02ff, #4c4ee2);
+    border-radius: 5px;
+    margin-top: 0px;
+    padding: 10px 40px; 
+    display: inline-block;
+    font-weight: bold;
+}
+.third-section {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position-y: top;
+    margin: 0;
+}
+.ex-h1 {
+    margin-left: 6%;
+}
+.third-section-div {
+    width: 88%;
+    margin: auto;
+    display: flex;
+    margin-bottom: 100px;
+}
+.full-stack {
+    width: 50%;
+    margin-right: 30px;
+    box-shadow: 10px 10px 40px gray;
+    padding: 0px 5px 60px 40px;
+    border-image: linear-gradient(#db6c5d, #ee270d)10;
+    border-left: 8px solid;
+    
+}
+.baby-web {
+    width: 50%;
+    margin-left: 30px;
+    box-shadow: 10px 10px 40px gray;
+    padding: 0px 5px 60px 40px;
+    border-left: 8px solid;
+    border-image: linear-gradient(#4dc706, #78eb5b)10;
+}
+.full-h1 {
+    font-size: 40px;
+}
+.baby-h2 {
+    font-size: 40px;
+}
+.baby-web h3 {
+    color: blue;
+}
+.full-stack h3 {
+    color: blue;
+}
+.ex-h1 {
+    font-size: 40px;
+    margin-bottom: 40px;
+    color: rgb(0, 0, 0);
+}
+.arnaf-abir {
+    text-align: center;
+    color: gray;
+}
